@@ -1,0 +1,15 @@
+{
+  "name": "bookster/addon-extra",
+  "minimum-stability": "dev",
+  "prefer-dist": true,
+  "optimize-autoloader": true,
+  "require": {
+    "php": ">=7.0"
+  },
+  "config": {},
+  "autoload": {
+    "psr-4": {
+      "Bookster_Extra_Options\\": "src/"
+    }
+  }
+}

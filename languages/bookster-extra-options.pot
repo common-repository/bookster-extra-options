@@ -1,0 +1,58 @@
+# Copyright (C) 2024 WPBookster
+# This file is distributed under the same license as the Bookster Service Extra plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookster Service Extra 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bookster-extra-options\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-09T01:42:12+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: bookster-extra-options\n"
+
+#. Plugin Name of the plugin
+#: bookster-extra-options.php
+msgid "Bookster Service Extra"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: bookster-extra-options.php
+msgid "https://wpbookster.com/"
+msgstr ""
+
+#. Description of the plugin
+#: bookster-extra-options.php
+msgid "Official Bookster Service Extra addon - Offer Extra Products, Equipment, Variances to your Customers with Additional Fees"
+msgstr ""
+
+#. Author of the plugin
+#: bookster-extra-options.php
+msgid "WPBookster"
+msgstr ""
+
+#. Author URI of the plugin
+#: bookster-extra-options.php
+msgid "https://wpbookster.com/about"
+msgstr ""
+
+#: bookster-extra-options.php:75
+msgid "\"Bookster - Extra\" requires Bookster plugin installed and activated."
+msgstr ""
+
+#. translators: %1$s - Bookster Extra Version. %2$s - Minimum Supporting Bookster Version
+#: bookster-extra-options.php:90
+msgid "\"Bookster - Extra %1$s\" requires Bookster version %2$s. Please update Bookster plugin!"
+msgstr ""
+
+#. translators: %s - Bookster Version
+#: bookster-extra-options.php:113
+msgid "\"Bookster %s\" requires new addon version. Please update Bookster Extra!"
+msgstr ""
+
+#: src/Engine/ExtraBookingRequestLogic.php:91
+msgid "Manage"
+msgstr ""
